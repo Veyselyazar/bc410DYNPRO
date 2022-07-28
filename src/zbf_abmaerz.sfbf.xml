@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SFBF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEADER>
+    <BFUNCTION>ZBF_ABMAERZ</BFUNCTION>
+    <VERSION>A</VERSION>
+    <TYPE>G</TYPE>
+    <REVERSIBLE>X</REVERSIBLE>
+    <COMPONENT>HOME</COMPONENT>
+    <S4H_OP_STATE>1</S4H_OP_STATE>
+    <S4H_PC_STATE>2</S4H_PC_STATE>
+   </HEADER>
+   <NAME32>Neue funktionen in Releas</NAME32>
+   <NAME80>Funktionen ZBF_abmaerz 2022</NAME80>
+   <ASSIGNED_SWITCHES>
+    <SFW_SWBF_OUTTAB_LINE>
+     <BFUNCTION>ZBF_ABMAERZ</BFUNCTION>
+     <SWITCH_ID>ZSCHALTER1</SWITCH_ID>
+     <SWITCHTYPE>A</SWITCHTYPE>
+     <NAME32>Künfitige Codings ab 1.3.2022</NAME32>
+    </SFW_SWBF_OUTTAB_LINE>
+   </ASSIGNED_SWITCHES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
